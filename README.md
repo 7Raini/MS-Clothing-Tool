@@ -1,5 +1,7 @@
 <div align="center">
 
+![MS Banner](docs/images/msct.png)
+
 # MS Clothing Tool
 **Create and Manage Clothing.**
 
