@@ -3,7 +3,7 @@
 # MS Clothing Tool
 **Create and Manage Clothing.**
 
-[**Discord**](https://discord.gg/XGauwG5uvC)
+[**Discord**](https://discord.gg/XGauwG5uvC) **·** [**Download**]()
 
 </div>
 
