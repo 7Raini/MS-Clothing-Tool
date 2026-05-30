@@ -7,6 +7,8 @@
 
 </div>
 
+---
+
 ## Highlights
 
 | | |
@@ -19,7 +21,7 @@
 | <img src="https://api.iconify.design/lucide:layout-template.svg?color=%23ec4899&width=22" align="top" /> &nbsp; **Template Creator** | Erstelle in Sekundenschnelle ein sauberes `.psd`-Template aus einer `.ydd`-Datei. |
 | <img src="https://api.iconify.design/simple-icons:discord.svg?color=%238b5cf6&width=22" align="top" /> &nbsp; **Discord login** | Melde dich einmalig mit deinem Discord-Account an – keine zusätzlichen Maßnahmen. |
 
-
+---
 
 ## License-Keys - Preise
 
@@ -28,3 +30,4 @@
 | Premium · 30 Tage | 19,90€ - (inkl. Premium-Rolle für `30` Tage) |
 | Premium · 90 Tage | 49,90€ - (inkl. Premium-Rolle für `90` Tage) |
 | Premium · Lifetime | 189,90€ - (inkl. Premium-Rolle für `unbegrenzt` Tage) |
+--- 
