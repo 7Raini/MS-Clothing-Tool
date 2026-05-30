@@ -83,6 +83,7 @@ MS Clothing Tool uses Discord for authentication. Simply click the login button,
 Premium unlocks the following features: **Template Creator**, **Texture Preview**, **Polygon Reducer** and **Embroider**.
 
 > Premium licenses (license keys) are sold exclusively through our Discord server. To purchase one, simply open a ticket, choose a pricing plan (30 Days, 90 Days, Lifetime, or a custom license), and redeem the license key in the tool once you receive it.
+
 Once your license key expires, Premium features will no longer be accessible until a new license key is redeemed.
 
 ---
