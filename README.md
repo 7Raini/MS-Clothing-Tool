@@ -15,8 +15,8 @@
 
 | | |
 |---|---|
-| <img src="https://api.iconify.design/lucide:shirt.svg?color=%23ec4899&width=22" align="top" /> &nbsp; **Open clothing files directly** | Überprüfe deine Arbeit, ohne Umwege über andere Tools zu nehmen. |
-| <img src="https://api.iconify.design/lucide:eye.svg?color=%23ec4899&width=22" align="top" /> &nbsp; **Live preview** | Siehe genau, wie dein Design im Spiel aussehen wird. |
+| <img src="https://api.iconify.design/lucide:shirt.svg?color=%23ec4899&width=22" align="top" /> &nbsp; **File Explorer** | Öffne alle files an einem Ort, ohne andere Tools verwenden zu müssen. |
+| <img src="https://api.iconify.design/lucide:eye.svg?color=%23ec4899&width=22" align="top" /> &nbsp; **Live preview** | Siehe genau, wie deine Kleidung Ingame aussehen wird. |
 | <img src="https://api.iconify.design/lucide:scissors.svg?color=%23ec4899&width=22" align="top" /> &nbsp; **Polygon Reducer** | Reduziere hochpolygone Meshes in Sekundenschnelle auf spielbereite Polygoncounts. |
 | <img src="https://api.iconify.design/lucide:package.svg?color=%23ec4899&width=22" align="top" /> &nbsp; **Resource Builder** | Verwandle deine fertige Kleidung mit nur einem Klick in eine einsatzbereite FiveM-Ressource. |
 | <img src="https://api.iconify.design/lucide:paintbrush.svg?color=%23ec4899&width=22" align="top" /> &nbsp; **Texture Preview** | Speicher deine `.psd`-Datei und beobachte, wie sich die Textur im Viewer sofort aktualisiert. |
