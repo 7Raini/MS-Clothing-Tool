@@ -61,7 +61,7 @@ Optimiert YDD-Meshes für bessere Performance auf FiveM-Servern – QEM-basierte
 ![MS Banner](docs/images/msct.png)
 
 ### Embroider `Premium`
-soon.
+Erstelle realistische Stickerei-Patches direkt auf deinen Clothing-Texturen – vom Logo bis zur fertigen FiveM-Datei.
 ![MS Banner](docs/images/msct.png)
 
 ---
