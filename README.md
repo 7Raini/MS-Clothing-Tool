@@ -5,7 +5,7 @@
 # MS Clothing Tool – Create and Manage Clothing <img src="https://api.iconify.design/bi:stars.svg?color=%23ffffff&width=22" align="top" /> &nbsp;
 Das MS Clothing Tool ermöglicht dir einen schnelleren Workflow rund um GTA5 / FiveM Clothing. Darunter zählt das ready machen von FiveM Kleidung, das erstellen von PSD Templates sowie die Änderungen und Bearbeitungen einer .psd-Datei Live auf einem Model im Tool anschauen zu können.
 
-[**Discord**](https://discord.gg/XGauwG5uvC) **·** [**Download soon**]() **·** [**Report a Bug**](https://github.com/7Raini/MS-Clothing-Tool/issues)
+[**Discord**](https://discord.gg/XGauwG5uvC) **·** [**Download soon**](https://github.com/7Raini/MS-Clothing-Tool/releases) **·** [**Report a Bug**](https://github.com/7Raini/MS-Clothing-Tool/issues)
 
 </div>
 
