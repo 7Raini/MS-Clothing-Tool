@@ -2,8 +2,8 @@
 
 ![MS Banner](docs/images/msct.png)
 
-# MS Clothing Tool <img src="https://api.iconify.design/bi:stars.svg?color=%23ffffff&width=22" align="top" /> &nbsp;
-**Create and Manage Clothing.**
+# MS Clothing Tool – Create and Manage Clothing <img src="https://api.iconify.design/bi:stars.svg?color=%23ffffff&width=22" align="top" /> &nbsp;
+Das MS Clothing Tool ermöglicht dir einen schnelleren Workflow rund um GTA5 / FiveM Clothing. Darunter zählt das ready machen von FiveM Kleidung, das erstellen von PSD Templates sowie die Änderungen und Bearbeitungen einer .psd-Datei Live auf einem Model im Tool anschauen zu können.
 
 [**Discord**](https://discord.gg/XGauwG5uvC) **·** [**Download**]()
 
@@ -66,7 +66,7 @@ Erstelle realistische Stickerei-Patches direkt auf deinen Clothing-Texturen – 
 
 ---
 
-## <img src="https://api.iconify.design/bi:tags.svg?color=%23ffffff&width=22" align="top" /> &nbsp; Installation
+## <img src="https://api.iconify.design/bi:download.svg?color=%23ffffff&width=22" align="top" /> &nbsp; Installation
 1. Open the [latest release]().
 2. Download `MSClothingTool-<version>.zip`.
 3. Right-click the ZIP → Properties → tick Unblock → OK.
@@ -76,7 +76,7 @@ Erstelle realistische Stickerei-Patches direkt auf deinen Clothing-Texturen – 
 
 ---
 
-## <img src="https://api.iconify.design/bi:tags.svg?color=%23ffffff&width=22" align="top" /> &nbsp; Account & Premium
+## <img src="https://api.iconify.design/bi:shield-lock.svg?color=%23ffffff&width=22" align="top" /> &nbsp; Account & Premium
 
 MS Clothing Tool uses Discord for authentication. Simply click the login button, authorize the application in your browser, and you're ready to go. We do not use separate accounts or passwords.
 
