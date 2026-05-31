@@ -5,11 +5,11 @@
 # MS Clothing Tool – Create and Manage Clothing <img src="https://api.iconify.design/bi:stars.svg?color=%23ffffff&width=22" align="top" /> &nbsp;
 Das MS Clothing Tool ermöglicht dir einen schnelleren Workflow rund um GTA5 / FiveM Clothing. Darunter zählt das ready machen von FiveM Kleidung, das erstellen von PSD Templates sowie die Änderungen und Bearbeitungen einer .psd-Datei Live auf einem Model im Tool anschauen zu können.
 
-[![Latest Release](https://img.shields.io/github/v/release/7Raini/MS-Clothing-Tool?style=for-the-badge&color=ec4899)](https://github.com/7Raini/MS-Clothing-Tool/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/7Raini/MS-Clothing-Tool/total?style=for-the-badge&color=8b5cf6)](https://github.com/7Raini/MS-Clothing-Tool/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078d4?style=for-the-badge)](#system-requirements)
+[![Latest Release](https://img.shields.io/github/v/release/7Raini/MS-Clothing-Tool?style=for-the-badge&color=ab31f1)](https://github.com/7Raini/MS-Clothing-Tool/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/7Raini/MS-Clothing-Tool/total?style=for-the-badge&color=d896ff)](https://github.com/7Raini/MS-Clothing-Tool/releases)
+![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078d4?style=for-the-badge)
 
-[**Discord**](https://discord.gg/XGauwG5uvC) **·** [**Download soon**](https://github.com/7Raini/MS-Clothing-Tool/releases) **·** [**Report a Bug**](https://github.com/7Raini/MS-Clothing-Tool/issues)
+[**Discord**](https://discord.gg/XGauwG5uvC) **·** [**Download soon**](https://github.com/7Raini/MS-Clothing-Tool/releases/latest) **·** [**Report a Bug**](https://github.com/7Raini/MS-Clothing-Tool/issues)
 
 </div>
 
@@ -71,7 +71,7 @@ Erstelle realistische Stickerei-Patches direkt auf deinen Clothing-Texturen – 
 ---
 
 ## <img src="https://api.iconify.design/bi:download.svg?color=%23ffffff&width=22" align="top" /> &nbsp; Installation
-1. Open the [latest release]().
+1. Open the [latest release](https://github.com/7Raini/MS-Clothing-Tool/releases/latest).
 2. Download `MSClothingTool-<version>.zip`.
 3. Right-click the ZIP → Properties → tick Unblock → OK.
 4. Extract the contents to a folder you'd like to keep, for example `C:\Tools\MSClothingTool\`.
