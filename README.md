@@ -43,31 +43,31 @@ Das MS Clothing Tool ermöglicht dir einen schnelleren Workflow rund um GTA5 / F
 ## <img src="https://api.iconify.design/bi:tags.svg?color=%23ffffff&width=22" align="top" /> &nbsp; Features
 
 ### Assets Gallery `Free`
-Browse 5.700+ GTA V Clothing Assets mit Thumbnails – Katalog, Filter und Schnellzugriff.
+Über 5.700 GTA V Kleidungsassets mit Vorschaubildern, Katalog, Filtern und schnellerem Zugriff.
 ![MS Banner](docs/images/msct.png)
 
 ### GTA File Explorer `Free`
-Browse 800.000+ GTA V Assets mit Instant-Search und direktem Datei-Zugriff.
+Über 800.000 GTA 5 Dateien mit Sofortsuche und direktem Zugriff auf Models und Texturen.
 ![MS Banner](docs/images/msct.png)
 
 ### Resource Builder `Free`
-FiveM Ready Clothing Packs mit Drag & Drop, automatischer fxmanifest und Meta-Generierung.
+Erstelle FiveM fertige Kleidungspacks per Drag and Drop mit automatischer Manifest und Metadaten Erstellung.
 ![MS Banner](docs/images/msct.png)
 
 ### Template Creator `Premium`
-Generiert PSD-Templates aus jeder YDD-Datei – passend zur tatsächlichen Texturgröße.
+Erzeugt PSD Vorlagen aus jeder YDD Datei in der passenden Texturgröße für Photoshop.
 ![MS Banner](docs/images/msct.png)
 
 ### Texture Preview `Premium`
-Live-Vorschau von Photoshop-Texturen auf 3D-Models. Änderungen sofort sichtbar nach Strg+S.
+Echtzeitvorschau deiner Photoshop Texturen auf einem 3D Model. Änderungen erscheinen direkt nach Strg+S.
 ![MS Banner](docs/images/msct.png)
 
 ### Polygon Reducer `Premium`
-Optimiert YDD-Meshes für bessere Performance auf FiveM-Servern – QEM-basierte Reduktion.
+Optimiert YDD Meshes für bessere Leistung auf FiveM Servern durch QEM Reduktion.
 ![MS Banner](docs/images/msct.png)
 
 ### Embroider `Premium`
-Erstelle realistische Stickerei-Patches direkt auf deinen Clothing-Texturen – vom Logo bis zur fertigen FiveM-Datei.
+Hochwertige Stickoptik für Logos und Muster direkt auf deinen Kleidungstexturen, exportfertig für FiveM.
 ![MS Banner](docs/images/msct.png)
 
 ---
