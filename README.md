@@ -11,7 +11,7 @@ Das MS Clothing Tool ermöglicht dir einen schnelleren Workflow rund um GTA5 / F
 
 [**Discord**](https://discord.gg/XGauwG5uvC) **·** [**Download soon**](https://github.com/7Raini/MS-Clothing-Tool/releases/latest) **·** [**Report a Bug**](https://github.com/7Raini/MS-Clothing-Tool/issues)
 
-![MS Tool-Dashboard Preview](docs/images/ms_clothing_tool_preview.png)
+![MS Tool-Dashboard Preview](docs/images/ms_clothing_tool_preview_neu.png)
 
 </div>
 
@@ -47,7 +47,7 @@ Das MS Clothing Tool ermöglicht dir einen schnelleren Workflow rund um GTA5 / F
 ![MS Banner](docs/images/msct.png)
 
 ### GTA File Explorer `Free`
-Über 800.000 GTA 5 Dateien mit Sofortsuche und direktem Zugriff auf Models und Texturen.
+Über 800.000 GTA V Dateien mit Sofortsuche und direktem Zugriff auf Models und Texturen.
 ![MS Banner](docs/images/msct.png)
 
 ### Resource Builder `Free`
